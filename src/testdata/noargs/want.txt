@@ -1,0 +1,7 @@
+noargs
+├── dir1
+│   ├── file1.txt
+│   └── subdir1
+│       └── subfile1.txt
+└── dir2
+    └── file2.txt
